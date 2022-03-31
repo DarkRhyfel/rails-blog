@@ -1,24 +1,10 @@
-# README
+# Rails Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
 
-Things you may want to cover:
+A little project based on [Ruby on Rails Guide: Getting Started.](https://guides.rubyonrails.org/getting_started.html)
 
-* Ruby version
+## Objectives
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Learn the basics about ruby on rails development.
+- Learn basic MVC syntax, helpers and good practices.
